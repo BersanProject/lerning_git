@@ -1,4 +1,4 @@
-Escreva seu nome:
+jgiEscreva seu nome:
 Artur Bersan de Faria
 
 O que você pretende com o "curso"?
@@ -8,4 +8,4 @@ Escreva seu nome:
 Eu não preciso responder
 
 O que você pretende com o "curso"?
-Eu não preciso responder
+Eu Preciso responder.
