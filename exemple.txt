@@ -1,11 +1,11 @@
-jgiEscreva seu nome:
-Artur Bersan de Faria
+Escreva seu nome:
+Lucas Leite Macedo Maduro
 
 O que você pretende com o "curso"?
-Fazer esse porra aprender algo
+Busco aprendizado na area de desenvolvimento de software.
 
 Escreva seu nome:
-Eu não preciso responder
+Lucas Leite Macedo Maduro
 
 O que você pretende com o "curso"?
-Eu Preciso responder.
+Busco aprendizado na area de desenvolvimento de software.
